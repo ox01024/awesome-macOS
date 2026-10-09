@@ -311,6 +311,7 @@
 - [Loading](http://bonzaiapps.com) - See when apps are using your network in your Mac menubar. [![Open-Source Software][OSS Icon]](https://github.com/BonzaiThePenguin/Loading/) ![Freeware][Freeware Icon]
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Protect your privacy.
 - [MacDown](http://macdown.uranusjr.com/) - Markdown editor. [![Open-Source Software][OSS Icon]](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
+- [MacHead](https://headlessmac.com) - Turn any MacBook (even with a broken screen) into a headless server: lid-closed mode with internal display off, battery guard, web console and remote access. [![Open-Source Software][OSS Icon]](https://github.com/ox01024/MacHead) ![Freeware][Freeware Icon]
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. [![Open-Source Software][OSS Icon]](https://github.com/lra/mackup) ![Freeware][Freeware Icon]
 - [MacPacker](https://macpacker.app) - Preview and extract archives. Native 7-Zip alternative. [![Open-Source Software][OSS Icon]](https://github.com/sarensw/MacPacker) ![Freeware][Freeware Icon]
 - [MacPass](https://macpass.github.io/) - Password Manager. [![Open-Source Software][OSS Icon]](https://github.com/MacPass/MacPass) ![Freeware][Freeware Icon]
